@@ -20,7 +20,11 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   web: ^1.1.1
-  image: ^4.0.15
+  # image: ^4.0.15
+  image:
+    git:
+      url: git@github.com:flutterdevdomit/image.git
+      ref: fix_range_error_in_jpeg_scan
   heif_converter: ^1.0.6
   path_provider: ^2.0.14
   plugin_platform_interface: ^2.1.4
