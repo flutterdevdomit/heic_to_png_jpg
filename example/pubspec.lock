@@ -171,8 +171,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: fix_range_error_in_jpeg_scan
-      resolved-ref: "6c948fe01bcd2bdc6891a4d20119c710fced7894"
+      ref: temp_fork
+      resolved-ref: b3e0dba61e87867d4de8e34c229d936012be5d89
       url: "git@github.com:flutterdevdomit/image.git"
     source: git
     version: "4.9.2"
@@ -486,5 +486,5 @@ packages:
     source: hosted
     version: "3.1.3"
 sdks:
-  dart: ">=3.11.0 <4.0.0"
-  flutter: ">=3.38.4"
+  dart: ">=3.12.0 <4.0.0"
+  flutter: ">=3.44.0"
