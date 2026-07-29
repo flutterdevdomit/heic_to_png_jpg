@@ -24,7 +24,7 @@ dependencies:
   image:
     git:
       url: git@github.com:flutterdevdomit/image.git
-      ref: fix_range_error_in_jpeg_scan
+      ref: temp_fork
   heif_converter: any
   path_provider: any
   plugin_platform_interface: any
